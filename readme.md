@@ -3,6 +3,8 @@ A little tool I used to distribute Pokemon types to friends. You can also use th
 Example:
 > Enter trainers (comma seperated):
 
-> xarillian
+> xarillian, this person
 
 > xarillian, the Ice-type gym leader!
+
+> this person, the Fire-type gym leader!
